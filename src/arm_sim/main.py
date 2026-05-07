@@ -7,7 +7,9 @@ from task import ChoicePanelTask  # 新增：导入任务类
 print("ChoicePanelTask导入成功")
 import yaml  # 新增：加载配置文件
 print("YAML导入成功")
-
+# 机械臂仿真主程序
+# 初始化配置与环境
+# 启动仿真运行
 def main():
     print("\n=== 进入main函数 ===")
     # 1. 配置路径
